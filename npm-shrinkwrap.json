@@ -1,0 +1,35 @@
+{
+  "name": "webservice",
+  "version": "0.5.1",
+  "dependencies": {
+    "journey": {
+      "version": "0.4.0-pre-2",
+      "from": "journey@git://github.com/TriggeredMessaging/journey.git",
+      "resolved": "git://github.com/TriggeredMessaging/journey.git#33e28d4eccc888eb96132c66895a3921173c9bb1"
+    },
+    "revalidator": {
+      "version": "0.1.5",
+      "from": "revalidator@>= 0.1.0",
+      "resolved": "https://registry.npmjs.org/revalidator/-/revalidator-0.1.5.tgz"
+    },
+    "colors": {
+      "version": "0.6.0-1",
+      "from": "colors@>= 0.5.0"
+    },
+    "eyes": {
+      "version": "0.1.8",
+      "from": "eyes@>= 0.1.7",
+      "resolved": "https://registry.npmjs.org/eyes/-/eyes-0.1.8.tgz"
+    },
+    "request": {
+      "version": "1.9.9",
+      "from": "request@1.9.x",
+      "resolved": "https://registry.npmjs.org/request/-/request-1.9.9.tgz"
+    },
+    "vows": {
+      "version": "0.5.13",
+      "from": "vows@0.5.x",
+      "resolved": "https://registry.npmjs.org/vows/-/vows-0.5.13.tgz"
+    }
+  }
+}
